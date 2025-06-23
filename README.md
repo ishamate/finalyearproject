@@ -1,3 +1,4 @@
 # finalyearproject
-this is my final year project repository.
-author - Isha Mate
+This is my final year project repository.
+</br>
+Author - Isha Mate
